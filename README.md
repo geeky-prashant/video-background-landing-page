@@ -9,7 +9,7 @@
 
   <h2 align="center">Video Background Landing Page</h2>
 
-  In this project, I have created a landing page with video background, <br />The project is built using HTML5 & CSS3.
+  In this project, I have created a landing page with video background, The project is built using HTML5 & CSS3.
 
   <a href="https://geeky-prashant.github.io/video-background-landing-page/"><strong>➥ Live Demo</strong></a>
 
